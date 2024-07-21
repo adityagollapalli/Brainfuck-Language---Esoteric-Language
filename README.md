@@ -10,6 +10,5 @@
 - Very limited uses in the practical world.
 - But it was created as a challenge to coders to understand the depths of programming puzzles.
 
-###### Disclaimer: Code that is available:
-<br></br>
+###### Disclaimer: Code that is available: <br></br>
 ###### The code that I have written in the repository, has not been run on my machine, but it might be correct as much as my understanding goes
