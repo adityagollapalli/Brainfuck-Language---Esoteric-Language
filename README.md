@@ -11,5 +11,8 @@
 - Very limited uses in the practical world.
 - But it was created as a challenge to coders to understand the depths of programming puzzles.
 
+## Python code:
+- A python code has been written inorder to convert text to ascii and then into the brainfuck language pattern. The source is from wikipedia and the GitHub repo as mentioned previously.
+
 ###### Disclaimer: Code that is available: <br>
 ###### The code that I have written in the repository, has not been run on my machine, but it might be correct as much as my understanding goes.
